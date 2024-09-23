@@ -1,4 +1,4 @@
-# Bucket-Storage (STL comaptible)
+# Bucket-Storage (STL-comaptible)
 
 ### The container is designed for scenarios with frequent insertions and deletions while maintaining stable element addresses in memory.
 
